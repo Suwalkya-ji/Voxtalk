@@ -20,7 +20,6 @@
     "react-router-dom": "^7.12.0",
     "stream-chat": "^9.29.0",
     "stream-chat-react": "^13.13.4",
-    "streamify": "file:..",
     "zustand": "^5.0.10"
   },
   "devDependencies": {
